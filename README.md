@@ -1,5 +1,7 @@
 # OceanSim
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 Клеточный автомат хищник-жертва на решетке с встроенным рендером графиков популяций и Gym-совместимой средой для обучения агента управлять одним хищником.
 
 ## Описание
@@ -257,3 +259,8 @@ pytest -q
 
 MIT
 
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
